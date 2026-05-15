@@ -41,10 +41,10 @@ sudo docker compose up -d --build
 ## Para acessar a API / docmentação swagger
 
 ```
-http://localhost:8001
+http://localhost:8001 ou http://127.0.0.1:8001/
 ```
 
 ```
-http://localhosfit:8001/docs
+http://localhosfit:8001/docs ou http://127.0.0.1:8001/docs
 ```
 
