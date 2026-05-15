@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para a disciplina de **Big Data** da pós-graduação em Engenharia de Software da UFRJ.
 
-O objetivo do trabalho é realizar o tratamento e processamento de dados utilizando Apache Spark, disponibilizando posteriormente os dados tratados através de uma API para consumo no front-end.
+O objetivo do trabalho é realizar o tratamento e processamento de dados utilizando Apache Spark, disponibilizando posteriormente os dados tratados através de uma API para consumo no front-end..
 
 ---
 
